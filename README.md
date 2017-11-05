@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Directive used from Angular 4
 
-ngif and toouched to set the validation in the input fields. Check sandboxforms.component.ts under sandboxforms directory. 
+ngif and touched to set the validation in the input fields. Check sandboxforms.component.ts under sandboxforms directory. 
 
 ## Development server
 
